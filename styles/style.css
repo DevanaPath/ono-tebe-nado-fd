@@ -36,7 +36,7 @@
     display: block;
 }
 
-.header__menu { 
+.header__menu {
     justify-self: start;
     grid-column: 1;
     align-self: center;
@@ -123,7 +123,7 @@
     width: 1030px;
     height: 385px;
     top: 149px;
-    left: 42px;
+    left: 50px;
     font-family: Raleway,sans-serif;
     font-size: 100px;
     font-weight: 700;
@@ -156,7 +156,7 @@
 .cover__description {
     position: absolute;
     top: 656px;
-    left: 42px;
+    left: 50px;
     width: 1000px;
     gap: 50px;
     color: #fff;
@@ -187,8 +187,8 @@
     width: 256px;
     height: 51px;
     font-family: Raleway,sans-serif;
-    font-weight: 500; 
-    font-size: 22px; 
+    font-weight: 500;
+    font-size: 22px;
     text-transform: uppercase;
     color: #fff;
     box-sizing: border-box;
@@ -309,7 +309,7 @@
     line-height: 120%;
     letter-spacing: 0;
     margin: 0;
-    color: #fff; 
+    color: #fff;
     margin-top: auto;
     margin-bottom: 48px;
 }
@@ -340,7 +340,7 @@
     margin: 0 auto;
     display: grid;
     grid-template-columns: 334px 1fr;
-    gap: 23px;  
+    gap: 24px;
     align-items: start;
 }
 
@@ -408,7 +408,7 @@
 }
 
 .footer {
-    background-color: #fff;  
+    background-color: #fff;
     margin-top: 180px;
     height: 180px;
 }
@@ -432,7 +432,7 @@
     font-style: normal;
     display: flex;
     flex-direction: column;
-    gap: 3px; 
+    gap: 3px;
     font-size: 18px;
     max-width: 240px;
     white-space: nowrap;
@@ -462,7 +462,6 @@
 
 .footer__menu-link {
     color: #000;
-    text-decoration: none;
     font-size: 18px;
     display: inline-block;
     padding: 0;
@@ -500,7 +499,7 @@
 }
 
 .footer__social-icon {
-    width: 48px;  
+    width: 48px;
     height: 48px;
     display: block;
 }
