@@ -94,6 +94,7 @@
     width: 240px;
     align-self: center;
     padding-top: 1px;
+    text-underline-offset: 4px;
 }
 
 .overlay {
@@ -329,7 +330,7 @@
 }
 
 .about {
-    background-color: #ff4;
+    background-color: #fff;
     margin: 120px 24px;
     box-sizing: border-box;
 }
@@ -373,7 +374,7 @@
     flex-direction: column;
     margin-top: 133px;
     align-content:space-between;
-    padding: 0;
+    padding: 0 4px 0 0;
 }
 
 .about__title {
@@ -393,7 +394,6 @@
     margin-top: 76px;
     width: 100%;
     margin-bottom: 0;
-    padding-right: 4px;
 }
 
 .about__text {
@@ -406,7 +406,7 @@
 }
 
 .footer {
-    background-color: #ff4;
+    background-color: #fff;
     margin-top: 180px;
     padding-top: 0;
     padding-bottom: 90px;
